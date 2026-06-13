@@ -45,7 +45,7 @@ Each daily run produces:
 
 - Runs on localhost — laptop must be on at 8am (fix: deploy to Oracle Cloud Free VM)
 - Make.com blocks scrapers via CAPTCHA — replaced with Activepieces
-- AI summaries use first 800 chars of page content due to free tier limits
+- AI summaries use first 600 chars of page content due to free tier limits
 
 ## Skills Demonstrated
 
