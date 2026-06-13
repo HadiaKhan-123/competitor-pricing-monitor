@@ -161,7 +161,7 @@ Zapier                 Make                      n8n
 
 **Initial data loaded:**
 - Row 2: Competitor1 → https://zapier.com/pricing
-- Row 3: Competitor2 → https://make.com/en/pricing
+- Row 3: ActivePieces → https://r.jina.ai/https://www.activepieces.com/pricing
 - Row 4: Competitor3 → https://n8n.io/pricing
 
 #### Tab 2: `change_log`
