@@ -35,11 +35,11 @@ Each daily run produces:
 
 ## Workflow
 
-![Workflow Canvas](https://github.com/HadiaKhan-123/competitor-pricing-monitor/commit/71408f44806af4e672d073f4f1b21bc5f2331081)
+[Workflow Canvas](https://github.com/HadiaKhan-123/competitor-pricing-monitor/commit/71408f44806af4e672d073f4f1b21bc5f2331081)
 
 ## Sample Output (Google Sheets)
 
-![Google Sheets Output](https://github.com/HadiaKhan-123/competitor-pricing-monitor/blob/main/Sample%20Output%20(Google%20Sheets))
+[Google Sheets Output](https://github.com/HadiaKhan-123/competitor-pricing-monitor/blob/main/Sample%20Output%20(Google%20Sheets))
 
 ## Limitations
 
