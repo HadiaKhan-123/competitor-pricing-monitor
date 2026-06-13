@@ -35,7 +35,7 @@ Each daily run produces:
 
 ## Workflow
 
-![Workflow Canvas](screenshots/workflow.png)
+![Workflow Canvas](https://github.com/HadiaKhan-123/competitor-pricing-monitor/commit/71408f44806af4e672d073f4f1b21bc5f2331081)
 
 ## Sample Output (Google Sheets)
 
