@@ -39,7 +39,7 @@ Each daily run produces:
 
 ## Sample Output (Google Sheets)
 
-![Google Sheets Output](screenshots/sheets_output.png)
+![Google Sheets Output](https://docs.google.com/spreadsheets/d/1uEGDjJBp5eBDXe2wnXvVCvIPYetE2XdPktCkYCg-Ma8/edit?usp=sharing)
 
 ## Limitations
 
