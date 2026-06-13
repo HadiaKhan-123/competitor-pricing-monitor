@@ -39,7 +39,7 @@ Each daily run produces:
 
 ## Sample Output (Google Sheets)
 
-![Google Sheets Output](https://docs.google.com/spreadsheets/d/1uEGDjJBp5eBDXe2wnXvVCvIPYetE2XdPktCkYCg-Ma8/edit?usp=sharing)
+![Google Sheets Output](https://github.com/HadiaKhan-123/competitor-pricing-monitor/blob/main/Sample%20Output%20(Google%20Sheets))
 
 ## Limitations
 
