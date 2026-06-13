@@ -41,6 +41,11 @@ Each daily run produces:
 
 [Google Sheets Output](https://github.com/HadiaKhan-123/competitor-pricing-monitor/blob/main/Sample%20Output%20(Google%20Sheets))
 
+## Slack Notification
+
+[Slack notification Canvas](https://github.com/HadiaKhan-123/competitor-pricing-monitor/blob/main/slack%20notification.png)
+
+
 ## Limitations
 
 - Runs on localhost — laptop must be on at 8am (fix: deploy to Oracle Cloud Free VM)
